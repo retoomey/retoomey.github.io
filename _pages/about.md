@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Robert Toomey, and I'm currently a researcher/software architect at the National Severe Storms Laboratory in Norman, Oklahoma. I'm usually working on proprietary code so I occasionally do a burst of code on github when I get a chance.  This code is usually something I did for class, or a tool I made at home that I end up using at work, etc.  Maybe others can find some of it useful.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'll probably get around to filling this out fully at some point.  You can browse other pages I've done over time to gather more info if you want:
+
+GIS 520 Portfolio page: [link](https://sites.google.com/site/retoomeygis520)
+GIS 590 Portfolio page: [link](https://sites.google.com/site/retoomeygis590)
