@@ -7,5 +7,5 @@ My name is Robert Toomey, and I'm currently a researcher/software architect at t
 
 I'll probably get around to filling this out fully at some point.  You can browse other pages I've done over time to gather more info if you want:
 
-GIS 520 Portfolio page: [link](https://sites.google.com/site/retoomeygis520)
-GIS 590 Portfolio page: [link](https://sites.google.com/site/retoomeygis590)
+[GIS 520 Portfolio](https://sites.google.com/site/retoomeygis520)
+[GIS 590 Portfolio](https://sites.google.com/site/retoomeygis590)
