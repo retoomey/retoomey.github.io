@@ -60,7 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software Architect"
   links:
-    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "My GitHub Projects"
